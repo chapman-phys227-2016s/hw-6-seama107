@@ -1,8 +1,8 @@
 # PHYS227 HW 6
 
-**Author:** _\<your name\>_
+**Author:** Michael Seaman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-6-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-6-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-6-seama107.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-6-seama107)
 
 **Due date:** 2016/03/17
 
@@ -19,7 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw6.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Not a huge fan of this one, it just seemed that we were finding the nuances of the Euler method, but that doesn't seem entirely helpful. 
 
 ## Honor Pledge
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Michael Seaman
